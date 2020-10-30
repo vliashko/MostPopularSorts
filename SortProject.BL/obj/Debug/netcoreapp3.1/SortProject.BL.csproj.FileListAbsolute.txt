@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\Сортировки\SortProject\SortProject.BL\bin\Debug\netcoreapp3.1\SortProject.BL.deps.json
+C:\Users\User\Desktop\Сортировки\SortProject\SortProject.BL\bin\Debug\netcoreapp3.1\SortProject.BL.dll
+C:\Users\User\Desktop\Сортировки\SortProject\SortProject.BL\bin\Debug\netcoreapp3.1\SortProject.BL.pdb
+C:\Users\User\Desktop\Сортировки\SortProject\SortProject.BL\obj\Debug\netcoreapp3.1\SortProject.BL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Сортировки\SortProject\SortProject.BL\obj\Debug\netcoreapp3.1\SortProject.BL.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Сортировки\SortProject\SortProject.BL\obj\Debug\netcoreapp3.1\SortProject.BL.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Сортировки\SortProject\SortProject.BL\obj\Debug\netcoreapp3.1\SortProject.BL.AssemblyInfo.cs
+C:\Users\User\Desktop\Сортировки\SortProject\SortProject.BL\obj\Debug\netcoreapp3.1\SortProject.BL.dll
+C:\Users\User\Desktop\Сортировки\SortProject\SortProject.BL\obj\Debug\netcoreapp3.1\SortProject.BL.pdb

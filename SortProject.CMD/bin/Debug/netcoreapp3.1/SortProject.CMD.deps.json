@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SortProject.CMD/1.0.0": {
+        "dependencies": {
+          "SortProject.BL": "1.0.0"
+        },
+        "runtime": {
+          "SortProject.CMD.dll": {}
+        }
+      },
+      "SortProject.BL/1.0.0": {
+        "runtime": {
+          "SortProject.BL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SortProject.CMD/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SortProject.BL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
